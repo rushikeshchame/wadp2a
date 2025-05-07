@@ -1,0 +1,3 @@
+name:rushikesh 
+class:TE 
+sub:wad practical
